@@ -55,7 +55,7 @@
             // firstNameLabel
             // 
             this.firstNameLabel.AutoSize = true;
-            this.firstNameLabel.Location = new System.Drawing.Point(78, 135);
+            this.firstNameLabel.Location = new System.Drawing.Point(78, 177);
             this.firstNameLabel.Name = "firstNameLabel";
             this.firstNameLabel.Size = new System.Drawing.Size(131, 29);
             this.firstNameLabel.TabIndex = 1;
@@ -63,14 +63,14 @@
             // 
             // firstNameText
             // 
-            this.firstNameText.Location = new System.Drawing.Point(282, 132);
+            this.firstNameText.Location = new System.Drawing.Point(282, 174);
             this.firstNameText.Name = "firstNameText";
             this.firstNameText.Size = new System.Drawing.Size(214, 35);
             this.firstNameText.TabIndex = 2;
             // 
             // lastNameText
             // 
-            this.lastNameText.Location = new System.Drawing.Point(283, 178);
+            this.lastNameText.Location = new System.Drawing.Point(282, 224);
             this.lastNameText.Name = "lastNameText";
             this.lastNameText.Size = new System.Drawing.Size(214, 35);
             this.lastNameText.TabIndex = 4;
@@ -78,7 +78,7 @@
             // lastNameLabel
             // 
             this.lastNameLabel.AutoSize = true;
-            this.lastNameLabel.Location = new System.Drawing.Point(79, 181);
+            this.lastNameLabel.Location = new System.Drawing.Point(78, 227);
             this.lastNameLabel.Name = "lastNameLabel";
             this.lastNameLabel.Size = new System.Drawing.Size(128, 29);
             this.lastNameLabel.TabIndex = 3;
@@ -86,7 +86,7 @@
             // 
             // accountNumberText
             // 
-            this.accountNumberText.Location = new System.Drawing.Point(282, 224);
+            this.accountNumberText.Location = new System.Drawing.Point(282, 126);
             this.accountNumberText.Name = "accountNumberText";
             this.accountNumberText.Size = new System.Drawing.Size(214, 35);
             this.accountNumberText.TabIndex = 6;
@@ -94,7 +94,7 @@
             // accountNumberLabel
             // 
             this.accountNumberLabel.AutoSize = true;
-            this.accountNumberLabel.Location = new System.Drawing.Point(79, 227);
+            this.accountNumberLabel.Location = new System.Drawing.Point(79, 132);
             this.accountNumberLabel.Name = "accountNumberLabel";
             this.accountNumberLabel.Size = new System.Drawing.Size(191, 29);
             this.accountNumberLabel.TabIndex = 5;
@@ -104,7 +104,7 @@
             // dateOfBirthLabel
             // 
             this.dateOfBirthLabel.AutoSize = true;
-            this.dateOfBirthLabel.Location = new System.Drawing.Point(79, 276);
+            this.dateOfBirthLabel.Location = new System.Drawing.Point(79, 281);
             this.dateOfBirthLabel.Name = "dateOfBirthLabel";
             this.dateOfBirthLabel.Size = new System.Drawing.Size(144, 29);
             this.dateOfBirthLabel.TabIndex = 7;
@@ -123,7 +123,7 @@
             // dateOfBirthPicker
             // 
             this.dateOfBirthPicker.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateOfBirthPicker.Location = new System.Drawing.Point(283, 270);
+            this.dateOfBirthPicker.Location = new System.Drawing.Point(283, 275);
             this.dateOfBirthPicker.Name = "dateOfBirthPicker";
             this.dateOfBirthPicker.Size = new System.Drawing.Size(214, 35);
             this.dateOfBirthPicker.TabIndex = 10;
